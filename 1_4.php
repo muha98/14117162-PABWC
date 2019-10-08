@@ -12,3 +12,5 @@ switch ($a){
         echo '$a tidak sama dengan 0,1, atau 2';
 }
 ?>
+
+
